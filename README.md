@@ -160,12 +160,6 @@ If you find ACE-Brain useful for your research and applications, please consider
 
 This project is built upon [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) and benefits from the open-source embodied AI community. We thank the authors of [VSI-Bench](https://github.com/vision-x-nyu/thinking-in-space), [NuScenes](https://github.com/nutonomy/nuscenes-devkit), and [EgoPlan](https://github.com/ChenYi99/EgoPlan) for their excellent benchmarks.
 
-<a id="contributors"></a>
-## 👥 Contributors
-
-<a href="https://github.com/ACE-Brain-Team/ACE-Brain/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ACE-Brain-Team/ACE-Brain" />
-</a>
 
 <a id="star-history"></a>
 ## ⭐ Star History
