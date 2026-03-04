@@ -150,7 +150,7 @@ If you find ACE-Brain-0 useful for your research and applications, please consid
 @article{gong2026acebrain,
   title={ACE-Brain: A Spatial-Centric Foundation Brain for Universal Embodiments},
   author={Gong, Ziyang and Luo, Zehang and Tang, Anke and Liu, Zhe and others},
-  journal={arXiv preprint arXiv:2502.xxxxx},
+  journal={arXiv preprint arXiv:2603.03198},
   year={2026}
 }
 ```
