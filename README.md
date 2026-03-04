@@ -185,7 +185,7 @@ If you find ACE-Brain-0 useful for your research and applications, please consid
 <a id="acknowledgements"></a>
 ## 🙏 Acknowledgements
 
-This project is built upon [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) and benefits from the open-source embodied AI community. We thank the authors of [VSI-Bench](https://github.com/vision-x-nyu/thinking-in-space), [NuScenes](https://github.com/nutonomy/nuscenes-devkit), and [EgoPlan](https://github.com/ChenYi99/EgoPlan) for their excellent benchmarks.
+This project is built upon [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) and benefits from the open-source embodied AI community. We thank the authors of [Qwen-VL](https://github.com/QwenLM/Qwen-VL), [Fusion_Bench](https://github.com/tanganke/fusion_bench), [VSI-Bench](https://github.com/vision-x-nyu/thinking-in-space), [NuScenes](https://github.com/nutonomy/nuscenes-devkit), and [EgoPlan](https://github.com/ChenYi99/EgoPlan) for their excellent benchmarks.
 
 
 <a id="star-history"></a>
